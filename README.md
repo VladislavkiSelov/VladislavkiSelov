@@ -8,7 +8,6 @@ I'm a beginner web developer. My journey in IT began at the Hillel computer scho
 
 * 🌍  I'm based in Kharkiv
 * ✉️  You can contact me at [vladislavkiselev.2007@gmail.com](mailto:vladislavkiselev.2007@gmail.com)
-* 🚀  I'm currently working on [Reborn_UA](https://github.com/VladislavkiSelov/Reborn_UA)
 * 🧠  I'm learning Node.js
 * 🖥️ my codewars profile [VladislavKiselov](https://www.codewars.com/users/VladislavKiselov)
 
