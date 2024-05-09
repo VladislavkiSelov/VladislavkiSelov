@@ -8,7 +8,7 @@ I'm a beginner web developer. My journey in IT began at the Hillel computer scho
 
 * 🌍  I'm based in Kharkiv
 * ✉️  You can contact me at [vladislavkiselev.2007@gmail.com](mailto:vladislavkiselev.2007@gmail.com)
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning TypeScript
 * 🖥️ my codewars profile [VladislavKiselov](https://www.codewars.com/users/VladislavKiselov)
 
 ### Skills
