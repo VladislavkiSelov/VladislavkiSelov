@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I'm a beginner web developer. My journey in IT began at the Hillel computer school, I really like web development, I want to find a job as soon as possible and develop in this direction
+Strong problem-solving skills, critical thinking, and the ability to think
+creatively to find innovative solutions. Self-motivated, quick learner, and
+able to work effectively both independently and as part of a team. My goal
+is to become a professional Front-End Developer. I wish to create highquality products for users. My aspiration is to become an expert in my field,
+acquire the latest technologies, and gain experience in web application
+development
 
 * 🌍  I'm based in Kharkiv
 * ✉️  You can contact me at [vladislavkiselev.2007@gmail.com](mailto:vladislavkiselev.2007@gmail.com)
